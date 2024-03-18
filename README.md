@@ -1,7 +1,7 @@
 # Wallmart Sales Forecast
 
 Build a time series model to wallmart sales forecast problem. Check out the full code available in my collab notebook with better readability: 
-https://drive.google.com/drive/folders/1gtHIP8DLO7BrIP8FXDSTxqOwsP8MKIdH?usp=drive_link
+https://colab.research.google.com/drive/1RC_N3-dqrIi9FetYZ4VD9IxuyjhBzkDQ?usp=drive_link
 
 
 > General Info
