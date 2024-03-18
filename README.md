@@ -30,5 +30,5 @@ Python -pandas -numpy -matplotlib -seaborn -sklearn -statsmodel
 Acknowledgements:
 I would like to thank Kaggle and Infosys team for designing this ML Usecase and special thank to my wallmart for sharing the datasets which is utlised to solve the time series problem.
 
-Contact"
+Contact:
 Created by [@subham0206] - feel free to contact me!
