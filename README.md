@@ -3,13 +3,12 @@
 Build a time series model to wallmart sales forecast problem. Check out the full code available in my collab notebook with better readability: 
 https://drive.google.com/drive/folders/1gtHIP8DLO7BrIP8FXDSTxqOwsP8MKIdH?usp=drive_link
 
-> Table of Contents
 
 > General Info
 
-> Technologies Used
-
 > Conclusions
+
+> Technologies Used
 
 > Acknowledgements
 
